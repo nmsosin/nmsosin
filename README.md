@@ -19,7 +19,7 @@ ___
     ex - tax accountant
   </p>
   <p align="end" textcolor="grey">
-    ex - Magnitolaband bass-guitarist
+    ex - <a href="https://music.yandex.ru/artist/4793518" target="_blank">magnitolaband</a> bass-guitarist
   </p>
 
 
