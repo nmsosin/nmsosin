@@ -34,12 +34,14 @@ ___
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub " width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript " width="40" height="40"/>&nbsp; -->
 </p>
 
 
 ## 🚀 My stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nmsosin&theme=dark)](https://git.io/streak-stats)
 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nmsosin)](https://git.io/streak-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmsosin&layout=compact&theme=vision-friendly-dark)](https://github.com/nmsosin/github-readme-stats)
 
 [![My Codewars stat](https://www.codewars.com/users/nmsosin/badges/large)](https://www.codewars.com/users/nmsosin)
