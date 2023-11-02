@@ -9,7 +9,7 @@
     I'm a junior frontend developer from Russia, Nizhny Novgorod.
   </p>
   <p>
-    Currently learning React / Redux / TypeScript at Yandex.Practicum.
+    Currently learning Node.js, Express and MongoDB at Yandex.Practicum.
   </p>
 </div>
 
