@@ -9,7 +9,7 @@
     I'm a junior frontend developer from Russia, Nizhny Novgorod.
   </p>
   <p>
-    Currently learning Nest.js and PostgreSQL at Yandex.Practicum.
+    Currently learning at Yandex.Practicum.
   </p>
 </div>
 
@@ -52,6 +52,8 @@ ___
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest " width="40" height="40"/>&nbsp;
   <img src="https://assets-global.website-files.com/5f10ed4b2ae6bc09c03f5d7a/6496d5aec6b765c592844519_Cypress_Logomark_Dark-Color.png" title="Cypress" alt="Cypress " width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker " width="50" height="50"/>&nbsp;
 </p>
 
 
