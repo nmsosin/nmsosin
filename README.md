@@ -6,10 +6,10 @@
 <div align="center">
   <img src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif" alt="coding" width="150" />
   <p>
-    I'm a junior frontend developer from Russia, Nizhny Novgorod.
+    I'm a middle frontend developer from Russia, Nizhny Novgorod.
   </p>
   <p>
-    Currently learning at Yandex.Practicum.
+    Yandex.Practicum "Web-developer Plus (Fullstack)" graduate.
   </p>
 </div>
 
